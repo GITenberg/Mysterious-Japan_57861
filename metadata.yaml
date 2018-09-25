@@ -1,0 +1,23 @@
+_repo: Mysterious-Japan_57861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Street, Julian
+    alias: Street, Julian Leonard
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '7933'
+    url: http://www.gutenberg.org/2009/agents/7933
+description: ''
+gutenberg_issued: '2018-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mysterious Japan
+url: http://www.gutenberg.org/ebooks/57861
